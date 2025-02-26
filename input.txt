@@ -1,0 +1,10 @@
+0.20
+train1/fast/12.10
+train2/fast/12.15
+train3/fast/12.17
+train4/passenge/12.25
+train5/fast/14.00
+train6/passenge/14.10
+train7/passenge/16.20
+train8/fast/16.25
+train9/passenge/18.20
